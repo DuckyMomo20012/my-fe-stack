@@ -5,58 +5,108 @@
 ## 1. Technologies:
 
 <table>
-<tbody>
-<tr>
-<td> Framework </td> <td> React </td> <td> v17 </td>
-</tr>
-
-<tr>
-<td> Routing </td> <td> React-router </td> <td> v6 </td>
-</tr>
-
-<tr>
-<td> State Management </td> <td> Undecided (Redux-toolkit or Recoil?) </td> <td> ... </td>
-</tr>
-
-<tr>
-<td> Data fetching </td> <td> React-query </td> <td> v3 </td>
-</tr>
-
-<tr>
-<td> Component Styling </td> <td> WindiCSS </td> <td> v3 </td>
-</tr>
-
-<tr>
-<td> UI Components Library </td> <td> Mantine </td> <td> v3 </td>
-</tr>
-
-<tr>
-<td> UI Component Testing </td> <td> Storybook </td> <td> v6 (@storybook/react)</td>
-</tr>
-
-<tr>
-<td> Lint tool </td> <td> ESLint </td> <td> v8 </td>
-</tr>
-
-<tr>
-<td> Formatter </td> <td> Prettier </td> <td> v2 </td>
-</tr>
-
-<tr>
-<td> Build tool </td> <td> Vite </td> <td> v2 </td>
-</tr>
-
-<tr>
-<td> Icons </td> <td> React Icons </td> <td> v4 </td>
-</tr>
-</tbody>
+    <tr>
+        <th></th>
+        <th><div align="center">Learning</div></th>
+        <th><div align="center">Interested</div></th>
+    </tr>
+    <tr>
+        <td>Framework</td>
+        <td align="center">
+            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" />
+            <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
+        </td>
+        <td align="center">
+            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs"/>
+            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs"/>
+            <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
+            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs"/>
+            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs"/>
+            <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
+        </td>
+    </tr>
+    <tr>
+        <td>Routing</td>
+        <td align="center">
+            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" />
+            <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td>State Management</td>
+        <td align="center">
+            <img src="./assets/redux_logo.svg" height="32px" alt="redux"/>
+            <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
+        </td>
+        <td align="center">
+            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil"/>
+            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil"/>
+            <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
+        </td>
+    </tr>
+    <tr>
+        <td>Data Fetching</td>
+        <td align="center">
+            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query"/>
+            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query"/>
+            <p align="center"><code><a href="https://react-query.tanstack.com/">Redux Query</a></code></p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td>Component Styling</td>
+        <td align="center">
+            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss"/>
+            <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
+        </td>
+        <td align="center">
+            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract"/>
+            <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
+        </td>
+    </tr>
+    <tr>
+        <td>UI Component Library</td>
+        <td align="center">
+            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine"/>
+            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine"/>
+            <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
+        </td>
+        <td align="center">
+            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design"/>
+            <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
+            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra"/>
+            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra"/>
+            <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
+        </td>
+    </tr>
+    <tr>
+        <td>Build Tool</td>
+        <td align="center">
+            <img src="./assets/vite_logo.svg" height="32px" alt="vite"/>
+            <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td>Icon</td>
+        <td align="center">
+            <img src="./assets/react_icon_logo.svg" height="32px" alt="react_icon"/>
+            <p align="center"><code><a href="https://react-icons.github.io/react-icons/">React Icons</a></code></p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
 </table>
 
 ## 2. Description:
 
 ### 2.1. Framework:
 
-> 🤖: Why **React**? It's popular, has a large community, and has a shallow learning curve, that's it.
+> 🤖 `React`: Why **React**? It's popular, has a large community, and has a shallow learning curve, that's it.
 
 Other alternatives:
 
@@ -79,7 +129,7 @@ _Data from [StateOfJS 2020](https://2020.stateofjs.com/en-US/technologies/front-
 
 ### 2.2. Routing:
 
-> 🤖: **React router** is the most popular routing library for React. Others have
+> 🤖 `React router`: **React router** is the most popular routing library for React. Others have
 > less popularity.
 
 Other alternatives:
@@ -97,7 +147,7 @@ Blogs:
 
 ### 2.3. State Management:
 
-> 🤖: No Description.
+> 🤖 `Redux Toolkit`: No Description.
 
 Other alternatives:
 
@@ -123,7 +173,7 @@ Blogs:
 
 ### 2.4. Data fetching:
 
-> 🤖: Based on the comparison below, I think react-query is better.
+> 🤖 `React Query`: Based on the comparison below, I think react-query is better.
 
 Other alternatives:
 
@@ -304,7 +354,7 @@ Further Information
 > 🤖: Although CSS frameworks like WindiCSS has quite a few drawbacks, I think
 > with VSCode extensions and plugins, that's won't be a problem 🤷‍♂️.
 
-> 🤖: WindiCSS has more features than Tailwindcss, so I migrated to WindiCSS 💪.
+> 🤖 `WindiCSS`: WindiCSS has more features than Tailwindcss, so I migrated to WindiCSS 💪.
 >
 > - Variant Group
 > - Shortcuts: Simpler than Tailwindcss @apply
@@ -367,7 +417,7 @@ _Data from [StateOfCSS 2021](https://2021.stateofcss.com/en-US/technologies/css-
 
 ### 2.5. UI Components Library:
 
-> 🤖: Mantine is open source, has good reviews, many components.
+> 🤖 `Mantine`: Mantine is open source, has good reviews, many components.
 
 Other alternatives:
 
@@ -396,7 +446,7 @@ Blogs:
 
 ### 2.6. UI Component Testing:
 
-> 🤖: Found it on: https://risingstars.js.org/2021/en. Will integrate into my apps.
+> 🤖 `Storybook`: Found it on: https://risingstars.js.org/2021/en. Will integrate into my apps.
 
 Other alternatives:
 
@@ -415,7 +465,7 @@ Blogs:
 
 ### 2.7. Lint tool:
 
-> 🤖: ESLint is the most popular linting tool among others
+> 🤖 `ESLint`: ESLint is the most popular linting tool among others
 
 Other alternatives:
 
@@ -427,7 +477,7 @@ Other alternatives:
 
 ### 2.8. Formatter:
 
-> 🤖: Prettier is great, ❤️ it.
+> 🤖 `Prettier`: Prettier is great, ❤️ it.
 
 Other alternatives: None?
 
@@ -435,7 +485,7 @@ Other alternatives: None?
 
 ### 2.9. Build tool:
 
-> 🤖: Many features:
+> 🤖 `Vite`: Many features:
 >
 > - Instant Server Start
 > - Lightning Fast HMR
@@ -466,4 +516,4 @@ Comparisons:
 
 ### 2.10. Icons:
 
-> 🤖: It includes many popular icons libraries.
+> 🤖 `React Icons`: It includes many popular icons libraries.
