@@ -13,22 +13,22 @@
     <tr>
         <td>Framework</td>
         <td align="center">
-            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" />
+            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs"/>
-            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs"/>
+            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs"/>
+            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
             <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Routing</td>
         <td align="center">
-            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" />
+            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router"/>
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
@@ -37,20 +37,20 @@
     <tr>
         <td>State Management</td>
         <td align="center">
-            <img src="./assets/redux_logo.svg" height="32px" alt="redux"/>
+            <img src="./assets/redux_logo.svg" height="32px" alt="redux" title="Redux Toolkit"/>
             <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil"/>
-            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil"/>
+            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil" title="Recoil"/>
+            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil" title="Recoil"/>
             <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Data Fetching</td>
         <td align="center">
-            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query"/>
-            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query"/>
+            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
+            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
             <p align="center"><code><a href="https://react-query.tanstack.com/">Redux Query</a></code></p>
         </td>
         <td align="center">
@@ -59,33 +59,33 @@
     <tr>
         <td>Component Styling</td>
         <td align="center">
-            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss"/>
+            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss" title="WindiCSS"/>
             <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract"/>
+            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
             <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
         </td>
     </tr>
     <tr>
         <td>UI Component Library</td>
         <td align="center">
-            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine"/>
-            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine"/>
+            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine" title="Mantine"/>
+            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine" title="Mantine"/>
             <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design"/>
+            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
             <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra"/>
-            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra"/>
+            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
+            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
             <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Build Tool</td>
         <td align="center">
-            <img src="./assets/vite_logo.svg" height="32px" alt="vite"/>
+            <img src="./assets/vite_logo.svg" height="32px" alt="vite" title="Vite"/>
             <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
         </td>
         <td align="center">
@@ -94,7 +94,7 @@
     <tr>
         <td>Icon</td>
         <td align="center">
-            <img src="./assets/react_icon_logo.svg" height="32px" alt="react_icon"/>
+            <img src="./assets/react_icon_logo.svg" height="32px" alt="react_icon" title="React Icon"/>
             <p align="center"><code><a href="https://react-icons.github.io/react-icons/">React Icons</a></code></p>
         </td>
         <td align="center">
