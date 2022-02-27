@@ -118,10 +118,10 @@ Other alternatives:
 Comparisons:
 
 <details open>
-<summary>State of JS 2020</summary>
+<summary>State of JS 2021</summary>
 
 ![front_end_frameworks](assets/front_end_frameworks_experience_ranking.png)
-_Data from [StateOfJS 2020](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)_
+_Data from [StateOfJS 2021](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/#front_end_frameworks_experience_ranking)_
 
 </details>
 
