@@ -94,8 +94,8 @@
     <tr>
         <td>Icon</td>
         <td align="center">
-            <img src="./assets/react_icon_logo.svg" height="32px" alt="react_icon" title="React Icon"/>
-            <p align="center"><code><a href="https://react-icons.github.io/react-icons/">React Icons</a></code></p>
+            <img src="./assets/iconify_logo.svg" height="32px" alt="react_icon" title="Iconify"/>
+            <p align="center"><code><a href="https://iconify.design/">Iconify</a></code></p>
         </td>
         <td align="center">
         </td>
@@ -516,4 +516,4 @@ Comparisons:
 
 ### 2.10. Icons:
 
-> 🤖 `React Icons`: It includes many popular icons libraries.
+> 🤖 `Iconify`: It includes many popular icons libraries.
