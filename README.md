@@ -28,10 +28,13 @@
     <tr>
         <td>Routing</td>
         <td align="center">
-            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router"/>
+            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router v6"/>
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
+            <img src="./assets/react_location_logo.svg#gh-light-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <img src="./assets/react_location_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
         </td>
     </tr>
     <tr>
