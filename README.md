@@ -1,6 +1,6 @@
 # My FE Tech Stack
 
-> This document is under development 🚧 and for reference purposes only 🔍. I chose libraries that suit me best.
+> This document is under development 🚧 and for reference purposes only 🔍.
 
 ## 1. Technologies:
 
@@ -132,11 +132,11 @@ _Data from [StateOfJS 2021](https://2021.stateofjs.com/en-US/libraries/front-end
 
 ### 2.2. Routing:
 
-> 🤖 `React router`: **React router** is the most popular routing library for React. Others have
-> less popularity.
+> 🤖 `React router`: **React router** is the most popular routing library for React.
 
 Other alternatives:
 
+- **React Location**: https://react-location.tanstack.com/
 - Reach Router: https://reach.tech/router/
 - The Navigation router: https://grahammendick.github.io/navigation/
 - hookrouter: https://github.com/Paratron/hookrouter
