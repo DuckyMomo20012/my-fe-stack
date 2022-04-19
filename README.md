@@ -15,14 +15,14 @@
         <td align="center">
             <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
+            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
         <td align="center">
             <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
     </tr>
     <tr>
